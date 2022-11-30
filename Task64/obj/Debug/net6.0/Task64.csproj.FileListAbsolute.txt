@@ -1,0 +1,15 @@
+C:\STUDIES\Domashka_seminar9\Task64\bin\Debug\net6.0\Task64.exe
+C:\STUDIES\Domashka_seminar9\Task64\bin\Debug\net6.0\Task64.deps.json
+C:\STUDIES\Domashka_seminar9\Task64\bin\Debug\net6.0\Task64.runtimeconfig.json
+C:\STUDIES\Domashka_seminar9\Task64\bin\Debug\net6.0\Task64.dll
+C:\STUDIES\Domashka_seminar9\Task64\bin\Debug\net6.0\Task64.pdb
+C:\STUDIES\Domashka_seminar9\Task64\obj\Debug\net6.0\Task64.csproj.AssemblyReference.cache
+C:\STUDIES\Domashka_seminar9\Task64\obj\Debug\net6.0\Task64.GeneratedMSBuildEditorConfig.editorconfig
+C:\STUDIES\Domashka_seminar9\Task64\obj\Debug\net6.0\Task64.AssemblyInfoInputs.cache
+C:\STUDIES\Domashka_seminar9\Task64\obj\Debug\net6.0\Task64.AssemblyInfo.cs
+C:\STUDIES\Domashka_seminar9\Task64\obj\Debug\net6.0\Task64.csproj.CoreCompileInputs.cache
+C:\STUDIES\Domashka_seminar9\Task64\obj\Debug\net6.0\Task64.dll
+C:\STUDIES\Domashka_seminar9\Task64\obj\Debug\net6.0\refint\Task64.dll
+C:\STUDIES\Domashka_seminar9\Task64\obj\Debug\net6.0\Task64.pdb
+C:\STUDIES\Domashka_seminar9\Task64\obj\Debug\net6.0\Task64.genruntimeconfig.cache
+C:\STUDIES\Domashka_seminar9\Task64\obj\Debug\net6.0\ref\Task64.dll
